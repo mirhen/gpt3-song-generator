@@ -1,4 +1,4 @@
-# OpenAI API Quickstart - Python example app
+# Make songs using GPT-3
 
 This is a song generator using the GPT-3 AI from OpenAI. 
 
